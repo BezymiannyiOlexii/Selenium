@@ -3,7 +3,7 @@ lang: C#
 
 Task: Testing the EPAM site
 
-Main code is in SeleniumDomo.sc file
+Main code is in SeleniumDemo.cs file
 
 All 8 test is passed well on my PC
 
