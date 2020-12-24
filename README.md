@@ -7,4 +7,4 @@ Main code is in SeleniumDemo.cs file
 
 All 8 test is passed well on my PC
 
-The packages thay you need indicated in packages.config file
+The packages that you need indicated in packages.config file
